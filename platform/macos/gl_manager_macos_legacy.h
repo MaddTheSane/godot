@@ -98,7 +98,7 @@ public:
 	~GLManager_MacOS();
 };
 
-#pragma clang diagnostic push
+#pragma clang diagnostic pop
 
 #endif // MACOS_ENABLED && GLES3_ENABLED
 
